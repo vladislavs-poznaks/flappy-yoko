@@ -29,7 +29,7 @@ scene("game", () => {
         sprite("yoko"),
         pos(80, 40),
         area(),
-        scale(0.5),
+        scale(0.25),
         body()
     ])
 

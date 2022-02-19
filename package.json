@@ -14,7 +14,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "kaboom": "^2000.2.8"
+    "kaboom": "^2000.2.8",
+    "push-dir": "^0.4.1",
+    "shx": "^0.3.2"
   },
   "alias": {
     "kaboom": "./node_modules/kaboom/dist/kaboom.mjs"
